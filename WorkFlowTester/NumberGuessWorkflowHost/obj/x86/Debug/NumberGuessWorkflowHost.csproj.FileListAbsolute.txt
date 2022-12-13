@@ -1,0 +1,11 @@
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe.config
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.pdb
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.dll
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.pdb
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csproj.AssemblyReference.cache
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csproj.CoreCompileInputs.cache
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csproj.CopyComplete
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.exe
+C:\Users\tailernguyen\source\repos\work_fun\PowerShellTests\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.pdb
